@@ -1,4 +1,5 @@
-import Basics.println;
+package Basics_Variables;
+import Basics_Println.println;
 
 public class variables {
     public static void main(String[]args) {

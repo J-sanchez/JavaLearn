@@ -1,4 +1,4 @@
-package Basics;
+package Basics_Println;
 public class println{
     public static void main(String[] args) {
         // \n takes the place of print'ln'
