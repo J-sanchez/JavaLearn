@@ -1,3 +1,4 @@
+package Basics;
 public class println{
     public static void main(String[] args) {
         // \n takes the place of print'ln'
@@ -8,6 +9,7 @@ public class println{
         System.out.println("\t this is going well");
         //Sysout
         System.out.println("sysout shortcut to println");
+        System.out.println();
         //
     }
 }

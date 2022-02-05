@@ -1,0 +1,14 @@
+x = 1 2 3
+y = hello
+z = true 
+
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.geeksforgeeks.org%2Fwp-content%2Fcdn-uploads%2F20191105122725%2FPrimitive-Data-Types-in-Java-4.jpg&imgrefurl=https%3A%2F%2Fwww.geeksforgeeks.org%2Fdata-types-in-java%2F&tbnid=B0cW9Dt_y1fgmM&vet=12ahUKEwjDvvPLtOf1AhXcCZ0JHdS_DLIQMygBegUIARDVAQ..i&docid=a6VPRwsRPf8TDM&w=1142&h=682&q=data%20types%20in%20java&ved=2ahUKEwjDvvPLtOf1AhXcCZ0JHdS_DLIQMygBegUIARDVAQ
+
+primitive vs reference 
+
+int x;   declaration 
+
+x = 123; assignment 
+
+int x = 123; initialization
+
