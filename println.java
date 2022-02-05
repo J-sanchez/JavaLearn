@@ -6,6 +6,8 @@ public class println{
         System.out.println("Not to shabby");
         // \t will tab ln
         System.out.println("\t this is going well");
-
+        //Sysout
+        System.out.println("sysout shortcut to println");
+        //
     }
 }
