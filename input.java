@@ -12,5 +12,7 @@ public class input {
         System.out.println("I enjoy: " +name);
         System.out.println("I have never been to " +loc);
 
+        // "sssss "+variable+" sssss"
+
     }
 }
